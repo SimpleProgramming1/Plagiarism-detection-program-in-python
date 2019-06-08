@@ -13,10 +13,6 @@ text2=file2.readlines()
 text2
 
 
-# Import the packages
-
-import nltk
-
 
 # Convert list to string 
 
